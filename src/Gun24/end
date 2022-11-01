@@ -1,0 +1,17 @@
+int[] dizi=new int[5]; index var,
+   fori(sıra garanti çünkü indexe göre ilerliyor),
+   foreach(sıra garanti değil)
+   for(int eleman:dizi)
+       so eleman
+
+ArrayList  index var,
+   fori(sıra garanti çünkü indexe göre ilerliyor),
+   foreach(sıra garanti değil)
+   for(int eleman:dizi)
+       so eleman
+
+SET lerde
+    INDEX YOK
+    fori yok
+    foreach(sıra garanti değil)
+    garanti istiyorsan ITERATOR yöntemi
