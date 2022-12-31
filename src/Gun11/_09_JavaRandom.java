@@ -29,11 +29,7 @@ public class _09_JavaRandom {
 //            System.out.println("Bilemediniz");
 //        }
 
-//        if (tutulanSayi == tahmin)
-//            System.out.println("tebrikler bildiniz");
-//        else
-//            System.out.println("bilemediniz");
-
+//
         System.out.println( (tutulanSayi == tahmin) ? "tebrikler bildiniz" : "Bilemediniz"  );
 
         System.out.println("tutulanSayi = " + tutulanSayi);

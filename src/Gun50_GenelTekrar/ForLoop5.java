@@ -10,8 +10,8 @@ public class ForLoop5 {
         Scanner scan = new Scanner(System.in);
         System.out.println("lutfen yuzden kucuk bir sayi giriniz...");
         double num = scan.nextDouble();
-        int sayi=(int) num;
 
+        int sayi=(int) num;
 
         // sayi negtifse veya tam sayi degilse uyari verelim
 

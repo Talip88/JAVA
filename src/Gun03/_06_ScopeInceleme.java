@@ -14,7 +14,7 @@ public class _06_ScopeInceleme {
             System.out.println("b = " + b);
         } // içerde tanımlanan değişkenler sadece içerde kullanılabilir.
 
-       // System.out.println("b = " + b); b degiskenine sadece ozel bolgede erişilebilir
+       //System.out.println("b = " + b); b degiskenine sadece ozel bolgede erişilebilir
         System.out.println("a = " + a);
     }
 }

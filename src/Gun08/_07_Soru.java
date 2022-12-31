@@ -12,6 +12,7 @@ public class _07_Soru {
 
         int birinciBoslukIndex=cumle.indexOf(" ");
         int ikinciBoslukIndexi=cumle.indexOf(" ", birinciBoslukIndex+1);
+
         // boşluk ara ama benim verdiğim indexten sonra
 
         String ilk2Kelime= cumle.substring(0, ikinciBoslukIndexi);

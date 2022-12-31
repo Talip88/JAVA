@@ -19,11 +19,11 @@ public class _04_JavaArray {
 
         Scanner oku=new Scanner(System.in);
         System.out.print("Sayi giriniz=");
-        int aranaSayi=oku.nextInt();
+        int arananSayi=oku.nextInt();
 
         for(int i=0;i< dizi.length ;i++)
         {
-            if (dizi[i] ==  aranaSayi)
+            if (dizi[i] ==  arananSayi)
                 System.out.println("var");
             else
                 System.out.println("YOK"); // burası da ödev olarak verildi..soru tam çözüm yapılmadı

@@ -10,6 +10,7 @@ public class Set1 {
         Set<Integer> sayilarKumesi= new HashSet<>();
 
 
+
         sayilarKumesi.add(10);
         sayilarKumesi.add(30);
         sayilarKumesi.add(50);

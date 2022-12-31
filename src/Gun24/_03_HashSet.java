@@ -35,7 +35,7 @@ public class _03_HashSet {
         for(String s: ts) // sırayı garanti etmiyor
             System.out.println("s = " + s);
 
-        Iterator gosterge= ts.iterator(); // indexi n yaptığını yapıyor.
+        Iterator gosterge= ts.iterator(); // indexi n yaptığını yapıyor. Setlerde sıralamayı sağlıyor.... hep bir sonrakini yzdır diosun--kendi içindeki sıra ama
         while (gosterge.hasNext()) // set lerde kendi içindeki sırasına göre elemanlara ulaşmak için.
         {
             System.out.println("gosterge.next() = " + gosterge.next()); //sıradaki elemanı gösteriyor

@@ -7,6 +7,8 @@ public class Calisan extends Kisi{
         setDepartmani(departmani);
     }
 
+
+
     public String getDepartmani() {
         return departmani;
     }

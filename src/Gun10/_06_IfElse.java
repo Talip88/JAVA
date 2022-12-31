@@ -18,7 +18,7 @@ public class _06_IfElse {
         int uzunluk = sifre.length();
         boolean varMi = sifre.toLowerCase().contains("pass");
 
-        if (uzunluk >=8 && uzunluk <=12 && varMi==false)  // !varMi
+        if (uzunluk >=8 && uzunluk <=12 && !varMi)  // !varMi
         {
             System.out.println("uygun");
         }

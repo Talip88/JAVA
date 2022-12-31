@@ -8,7 +8,7 @@ public class _03_Ornek2 {
         System.out.println("Adımız Java");   // ln var
         // ln: yazdıktan sonra alt satıra geç
 
-        // print.java -> Java derleyiyor (ara kod a .class) -> JVM (exe, işletim sistemine)
+        // print.java -> Java derliyor (ara kod a .class) -> JVM (exe, işletim sistemine)
         System.out.println("Merhaba");
         System.out.println("Dünya");
         System.out.println("Merhaba \nDünya"); // \n bir alt satıra geç

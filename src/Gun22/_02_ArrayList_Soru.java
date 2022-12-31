@@ -31,6 +31,7 @@ public class _02_ArrayList_Soru {
 
         gecenSayisiYaz(notlar,ort);  // dönen değere gerek olmadan çözüm
         int gecenSayisi = gecenSayisiBul(notlar,ort);  // donen degerli çözüm
+        System.out.println("gecenSayisi = " + gecenSayisi);
     }
 
 

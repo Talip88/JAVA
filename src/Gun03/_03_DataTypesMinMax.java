@@ -4,7 +4,7 @@ public class _03_DataTypesMinMax {
     public static void main(String[] args) {
         byte byteMin= Byte.MIN_VALUE;
         byte byteMax= Byte.MAX_VALUE;
-
+        System.out.println(Byte.MAX_VALUE);
         short shortMin= Short.MIN_VALUE;
         short shortMax= Short.MAX_VALUE;
 
